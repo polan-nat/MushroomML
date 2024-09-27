@@ -1,0 +1,7 @@
+Flask
+Flask_cors
+pandas
+numpy
+pickle
+pytest
+Flask-Testing
